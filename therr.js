@@ -35,3 +35,29 @@ const burgerLogo = document.createElement("img");
 burgerLogo.src = "burger.png"; // Replace with your burger logo image file path
 burgerLogo.alt = "Burger Logo";
 burgerLogo.classList.add("burger-logo");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
